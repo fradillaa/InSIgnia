@@ -1,1 +1,1 @@
-# InSIgnia
+# InSignia
