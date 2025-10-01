@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 24
+names: ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y']
+
+roboflow:
+  workspace: signlanguage-tewf0
+  project: insignia-ddnvp-csp0e
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/signlanguage-tewf0/insignia-ddnvp-csp0e/dataset/1
